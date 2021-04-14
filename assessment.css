@@ -5,6 +5,7 @@ html {
 body {
   background: linear-gradient(to bottom right, rgb(233, 146, 207), #da6ab8, rgba(218, 44, 131, 0.904), #da4c5f);
   color: #fdffff;
+  font-family: 'Times New Roman', Times, serif;
   width: 500px;
   margin-right: auto;
   margin-left: auto;
@@ -14,6 +15,7 @@ button {
   padding: 5px 20px;
   color: #e689e1;
   background-color: #fdffff;
+  font-family: 'Times New Roman', Times, serif;
   border-style: none;
 }
 
