@@ -5,21 +5,8 @@ const resultDivided = document.getElementById('result-area');
 const tweetDivided = document.getElementById('tweet-area');
 const answers = [
   '{userName}にピッタリなフレーズは「人生は妥協の連続なんだ そんなこと疾うにわかってたんだ」',
-  '{userName}にピッタリなフレーズは「」',
-  '{userName}にピッタリなフレーズは{userName}の情熱に周りの人は感化されます。',
-  '{userName}にピッタリなフレーズは{userName}の厳しさがものごとをいつも成功に導きます。',
-  '{userName}にピッタリなフレーズは博識な{userName}を多くの人が頼りにしています。',
-  '{userName}にピッタリなフレーズは{userName}だけのその特徴が皆を楽しくさせます。',
-  '{userName}にピッタリなフレーズは{userName}の洞察に、多くの人が助けられます。',
-  '{userName}にピッタリなフレーズは内側から溢れ出る{userName}の良さに皆が気を惹かれます。',
-  '{userName}にピッタリなフレーズは{userName}がする決断にいつも助けられる人がいます。',
-  '{userName}にピッタリなフレーズは。{userName}に気をかけてもらった多くの人が感謝しています。',
-  '{userName}にピッタリなフレーズは{userName}が感じたことに皆が共感し、わかりあうことができます。',
-  '{userName}にピッタリなフレーズは引すぎない{userName}の考えに皆が感謝しています。',
-  '{userName}にピッタリなフレーズは新しいことに向かっていく{userName}の心構えが多くの人に魅力的に映ります。',
-  '{userName}にピッタリなフレーズは{userName}の配慮が多くの人を救っています。',
-  '{userName}にピッタリなフレーズは。ありのままの{userName}自身がいいところなのです。',
-  '{userName}にピッタリなフレーズはやばいと思ったときにしっかりと衝動を抑えられる{userName}が皆から評価されています。'
+  '{userName}にピッタリなフレーズは「価値観だって自由なら 人を傷付けていいだろ 教えなかったのはあんたじゃないか」',
+  '{userName}にピッタリなフレーズは「逃げるは恥だか役に立つとかいうけど 正直立てません。」',
 ];
 
 /**
